@@ -254,9 +254,10 @@ This heatmap visualizes the concentration of ad views across different days of t
 1. Clone this repository:
 2. Install required packages:
 pip install -r requirements.txt
-3. Run the main analysis script:
+3. Extract the .zip file in data to get the csv files required.
+4. Run the main analysis script:
 python main.py
-4. Check the `results` folder for output files and visualizations.
+5. Check the `results` folder for output files and visualizations.
 
 ## Future Work
 
